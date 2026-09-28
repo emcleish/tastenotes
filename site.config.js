@@ -12,7 +12,7 @@ window.TASTE_NOTES_CONFIG = {
   appStoreUrl: null,
 
   // Where people can reach you. Shown on Support, Privacy and Terms.
-  supportEmail: null, // e.g. "support@tastenotes.app"
+  supportEmail: "tastenotes.phone.app@gmail.com",
 
   // The name that appears as the seller in the App Store (your legal name for now).
   developerName: null, // e.g. "Eric Smith"
