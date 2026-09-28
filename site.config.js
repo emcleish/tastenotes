@@ -28,7 +28,7 @@ window.TASTE_NOTES_CONFIG = {
   pricing: {
     free: {
       price: "$0",
-      note: "Restaurant limit to be announced", // e.g. "Up to 20 restaurants"
+      note: "Up to 10 restaurants",
       status: "At launch"
     },
     lifetime: {
