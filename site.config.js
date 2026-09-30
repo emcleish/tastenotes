@@ -15,7 +15,7 @@ window.TASTE_NOTES_CONFIG = {
   supportEmail: "tastenotes.phone.app@gmail.com",
 
   // The name that appears as the seller in the App Store (your legal name for now).
-  developerName: null, // e.g. "Eric Smith"
+  developerName: "Eric McLeish",
 
   // State whose law governs the Terms of Use.
   governingState: "Iowa",
@@ -32,7 +32,7 @@ window.TASTE_NOTES_CONFIG = {
       status: "At launch"
     },
     lifetime: {
-      price: null,          // e.g. "$59.99"
+      price: "$14.99",
       note: "One-time purchase",
       status: "At launch"
     },
