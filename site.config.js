@@ -32,7 +32,7 @@ window.TASTE_NOTES_CONFIG = {
       status: "At launch"
     },
     lifetime: {
-      price: "$14.99",
+      price: "$9.99",
       note: "One-time purchase",
       status: "At launch"
     },
